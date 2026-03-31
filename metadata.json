@@ -1,0 +1,5 @@
+{
+  "name": "AgroTwin AI",
+  "description": "Geo-Aware Agricultural Intelligence Platform for yield prediction and farm management.",
+  "requestFramePermissions": ["geolocation"]
+}
