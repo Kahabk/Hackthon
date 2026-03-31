@@ -66,7 +66,8 @@ Add your proof screenshots to a `/proof` folder:
 Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes).
 
 [Watch Demo](#)
- LINK TO PROJCT DEMO   https://drive.google.com/drive/folders/1IKZSgD1J8qTeyZX5AyX2LQreFpBDC0Rv?usp=sharing
+
+[LINK TO PROJCT](DEMOhttps://drive.google.com/drive/folders/1IKZSgD1J8qTeyZX5AyX2LQreFpBDC0Rv?usp=sharing)
 
 ---
 
