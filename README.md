@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="AgroTwin Banner" src="Screenshot from 2026-03-31 16-12-17.png" />
-</div>
 
 # AgroTwin — AI-Powered Agricultural Digital Twin
 
