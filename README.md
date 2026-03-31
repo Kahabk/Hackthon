@@ -67,7 +67,7 @@ Upload your demo video to Google Drive and paste the shareable link here (max 3 
 
 [Watch Demo](#)
 
-[LINK TO PROJCT](DEMOhttps://drive.google.com/drive/folders/1IKZSgD1J8qTeyZX5AyX2LQreFpBDC0Rv?usp=sharing)
+[LINK TO PROJECT DEMO](https://drive.google.com/drive/folders/1IKZSgD1J8qTeyZX5AyX2LQreFpBDC0Rv?usp=sharing)
 
 ---
 
