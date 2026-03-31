@@ -11,6 +11,22 @@ AgroTwin is a full-stack agricultural intelligence platform that creates a **dig
 
 Under the hood, a custom **PyTorch deep learning model** (trained on real agricultural datasets with multi-head cross-attention) predicts **Yield Score** and **Risk Score** from the cloud. Gemini AI then takes those predictions and generates a full expert-level report — including land use classification, soil-fertilizer interaction analysis, seasonal suitability, and actionable recommendations. Finally, Gemini's image generation model renders a **realistic satellite view** of the farm based on the AI analysis.
 
+### Key Features
+
+- Location-based farm analysis  
+- AI yield & risk prediction  
+- Structured agronomy reports (Gemini)  
+- AI-generated satellite visualization  
+- Cloud-based real-time inference  
+
+### How It Works
+
+1. User selects farm location on map  
+2. Inputs soil data (N, P, K, pH, moisture)  
+3. ML model predicts yield & risk  
+4. Gemini generates report + recommendations  
+5. AI generates satellite-style visualization  
+
 The result: a farmer anywhere in the world gets a professional agronomist-level report in seconds.
 
 ---
