@@ -74,7 +74,7 @@ Add your proof screenshots to a `/proof` folder:
 
 ![Screenshot 1](./Screenshot%20from%202026-03-31%2016-11-50.png)
 ![Screenshot 2](./Screenshot%20from%202026-03-31%2016-12-17.png)
-
+![Project Screenshot](./Screenshot%20from%202026-03-31%2014-46-59.png)
 ---
 
 ## Demo Video
