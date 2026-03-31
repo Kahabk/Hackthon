@@ -72,10 +72,7 @@ AgroTwin uses Google AI at **three distinct stages** of the prediction pipeline:
 
 ---
 
-## Proof of Google AI Usage
-
-Add your proof screenshots to a `/proof` folder:
-
+## Proof of Google AI 
 ![AI Proof 1](./proof/screenshot1.png)
 ![AI Proof 2](./proof/screenshot2.png)
 
