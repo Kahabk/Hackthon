@@ -56,7 +56,8 @@ AgroTwin uses Google AI at **three distinct stages** of the prediction pipeline:
    - Seasonal suitability with best planting months and reasoning
    - Detailed explanation of land impact, soil-fertilizer interaction, and weather effects
    - Actionable farming recommendations
-
+   - the ai model was deployid on google cloud the logs ## proof
+   - ![Project Screenshot](./Screenshot%20from%202026-03-31%2014-46-59.png)
 3. **Gemini Satellite Image Generation** — After the report is ready, `gemini-2.5-flash-image` generates a photorealistic satellite-style aerial view of the farm, customized with the actual land classification percentages and crop type returned by the AI report.
 
 ---
@@ -74,7 +75,7 @@ Add your proof screenshots to a `/proof` folder:
 
 ![Screenshot 1](./Screenshot%20from%202026-03-31%2016-11-50.png)
 ![Screenshot 2](./Screenshot%20from%202026-03-31%2016-12-17.png)
-![Project Screenshot](./Screenshot%20from%202026-03-31%2014-46-59.png)
+
 ---
 
 ## Demo Video
